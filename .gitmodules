@@ -1,0 +1,3 @@
+[submodule "T_submodule"]
+	path = T_submodule
+	url = https://github.com/sunshinetomy/GIt_Submodule
